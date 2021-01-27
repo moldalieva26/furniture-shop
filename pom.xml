@@ -16,8 +16,9 @@
 	<description>Online furniture shop</description>
 
 	<properties>
-		<java.version>11</java.version>
+		<java.version>1.8</java.version>
 		<start-class>com.furnitureshop.app.v1.WebAppV1Application</start-class>
+
 	</properties>
 
 	<dependencies>
